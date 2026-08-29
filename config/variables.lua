@@ -1,10 +1,10 @@
 -- Hyprland default apps
 
-TERMINAL     = "ghostty"
+TERMINAL = "ghostty"
 FILE_MANAGER = "ghostty -e yazi"
-BROWSER      = "firefox"
-EDITOR       = "ghostty -e vim"
-CALCULATOR   = "gnome-calculator"
+BROWSER = "firefox"
+EDITOR = "ghostty -e nvim"
+CALCULATOR = "gnome-calculator"
 
 -- Monitors
 MONITOR1 = ""
